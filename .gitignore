@@ -1,4 +1,9 @@
 *.py[co]
+blank/.ipynb_checkpoints/
+blank_for_recording/.ipynb_checkpoints/
+chapters/.ipynb_checkpoints/
+.DS_Store
+Icon[\r]
 
 # Packages
 *.egg
