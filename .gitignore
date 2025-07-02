@@ -1,4 +1,6 @@
 *.py[co]
+.ipynb_checkpoints/
+.DS_Store
 blank/.ipynb_checkpoints/
 blank_for_recording/.ipynb_checkpoints/
 chapters/.ipynb_checkpoints/
