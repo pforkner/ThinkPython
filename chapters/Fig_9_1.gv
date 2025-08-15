@@ -1,0 +1,8 @@
+digraph fig_9_1 {
+  rankdir=LR;
+  node [shape=plaintext, fontname="Monospace"];
+  b1 [label="'banana'"];
+  b2 [label="'banana'"]
+  a -> b2;
+  b -> b1;
+}
