@@ -1,0 +1,6 @@
+digraph G {
+    node [shape=box]
+    a [label="The first line is longer\lnojustify=false\l"]
+    b [nojustify=true label="The first line is longer\lnojustify=true\l"]
+    a -> b
+}
