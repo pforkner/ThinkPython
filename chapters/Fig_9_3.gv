@@ -1,0 +1,8 @@
+digraph fig_9_3 {
+  rankdir=LR;
+  node [shape=plaintext, fontname="Monospace"];
+  lst1 [label="[1, 2, 3]"]
+  lst2 [label="[1, 2, 3]"]
+  a -> lst2;
+  b -> lst1;
+}
