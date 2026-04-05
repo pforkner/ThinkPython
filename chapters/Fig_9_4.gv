@@ -1,7 +1,0 @@
-digraph fig_9_4 {
-  rankdir=LR;
-  node [shape=plaintext, fontname="Monospace"];
-  lst1 [label="[1, 2, 3]"]
-  a -> lst1;
-  b -> lst1;
-}

@@ -1,7 +1,0 @@
-digraph fig_9_2 {
-  rankdir=LR;
-  node [shape=plaintext, fontname="Monospace"];
-  b1 [label="'banana'"]
-  a -> b1;
-  b -> b1;
-}
